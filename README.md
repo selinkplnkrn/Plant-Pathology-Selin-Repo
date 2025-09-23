@@ -9,19 +9,17 @@ Kullanılan veri seti: Plant Pathology 2020 – FGVC7 (Kaggle yarışma veri set
 
 Amaç:
 
-Bitki yapraklarının görüntülerinden hastalık türlerini otomatik olarak sınıflandırmak
-
-Hastalık teşhisinde yapay zekâ tabanlı bir çözüm önermektir.
+Bitki yapraklarının görüntülerinden hastalık türlerini otomatik olarak sınıflandırmak. Hastalık teşhisinde yapay zekâ tabanlı bir çözüm önermektir.
 
 Veri setinde yer alan sınıflar:
 
-healthy (sağlıklı yaprak)
+. healthy (sağlıklı yaprak)
 
-multiple_diseases (birden fazla hastalık)
+. multiple_diseases (birden fazla hastalık)
 
-rust (pas hastalığı)
+. rust (pas hastalığı)
 
-scab (kabuk hastalığı)
+. scab (kabuk hastalığı)
 
 # Yöntemler
 
@@ -63,7 +61,7 @@ Eğitim
 
 Başlangıç için 5 epoch deneme yapıldı.
 
-Sonrasında 15–20 epoch ile doğrulama metrikleri takip edilebilir.
+Sonrasında 20 epoch ile doğrulama metrikleri takip edilebilir.
 
 Değerlendirme
 
@@ -79,11 +77,11 @@ Grad-CAM yöntemi ile modelin tahmin sırasında yaprak üzerinde odaklandığı
 
 # Sonuçlar
 
-Eğitim ve doğrulama doğrulukları %XX (→ Kaggle çıktına göre doldurabilirsin) seviyesine ulaşmıştır.
+Eğitim ve doğrulama doğrulukları % 80 seviyesine ulaşmıştır.
 
 Confusion Matrix ve classification raporu, modelin bazı sınıflarda yüksek başarı gösterdiğini, bazı benzer sınıflarda ise hatalar yaptığını göstermiştir.
 
-Grad-CAM çıktıları, modelin yaprağın hastalık görülen bölgelerine odaklandığını göstermiştir ✅
+Grad-CAM çıktıları, modelin yaprağın hastalık görülen bölgelerine odaklandığını göstermiştir.
 
 # Çıktılar
 
@@ -109,4 +107,4 @@ Gerçek zamanlı görüntü tanıma için kamera entegrasyonu
 
 # Linkler
 
-Kaggle Notebook: 
+Kaggle Notebook: https://www.kaggle.com/code/enesgleryz/plant-pathology-selin
