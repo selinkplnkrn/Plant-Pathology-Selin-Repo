@@ -107,6 +107,4 @@ Gerçek zamanlı görüntü tanıma için kamera entegrasyonu
 
 # Linkler
 
-Not: GPU da bir sıkıntı olduğu için bir arkadaşımın hesabından GPU eklemesi yapıldı
-
 Kaggle Notebook: https://www.kaggle.com/code/enesgleryz/plant-pathology-selin
