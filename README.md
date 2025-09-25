@@ -107,4 +107,5 @@ Gerçek zamanlı görüntü tanıma için kamera entegrasyonu
 
 # Linkler
 
+Kaggle Linki: https://www.kaggle.com/code/selinkplnkrn/plant-pathology-selin
 Kaggle Notebook: https://www.kaggle.com/code/enesgleryz/plant-pathology-selin
