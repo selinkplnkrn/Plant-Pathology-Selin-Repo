@@ -13,13 +13,13 @@ Bitki yapraklarının görüntülerinden hastalık türlerini otomatik olarak s�
 
 Veri setinde yer alan sınıflar:
 
-. healthy (sağlıklı yaprak)
+* healthy (sağlıklı yaprak)
 
-. multiple_diseases (birden fazla hastalık)
+* multiple_diseases (birden fazla hastalık)
 
-. rust (pas hastalığı)
+* rust (pas hastalığı)
 
-. scab (kabuk hastalığı)
+* scab (kabuk hastalığı)
 
 # Yöntemler
 
